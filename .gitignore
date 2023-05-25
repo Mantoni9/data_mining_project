@@ -8,3 +8,4 @@ data/preprocessed_data/train.csv
 data/bike_rides/OD_2020.csv
 data/preprocessed_data/covid.csv
 data/preprocessed_data/covid.csv
+**/.DS_Store
