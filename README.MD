@@ -6,7 +6,7 @@ This repository contains code for preprocessing and analyzing bike ride data. Th
 
 1. Install the required packages by running the following command:
 
-pip install XXXX
+pip install -r requirements.txt
 
 
 Note: If any packages are missing, please install them using `pip install`.
@@ -17,7 +17,7 @@ Note: If you encounter any issues with missing data or errors during preprocessi
 
 3. After executing the preprocessing notebook, the preprocessed datasets will be available in the `data/preprocessed_data` directory. Verify that the datasets have been generated successfully.
 
-4. Next, you can choose to either open the `Task_1.ipynb` notebook or the `regression_analysis.ipynb` notebook, depending on the analysis you want to perform. Execute all cells in these notebooks from top to bottom.
+4. Next, you can choose to either open the `classification_exploration.ipynb` notebook or the `regression_analysis.ipynb` notebook, depending on the analysis you want to perform. Execute all cells in these notebooks from top to bottom.
 
 Note: Make sure the preprocessed datasets are available before running the analysis notebooks. If any errors occur during the analysis, check if the required data files are present in the expected location.
 
